@@ -1,6 +1,10 @@
 # 📞 Call Center Workforce & Agent Performance MIS Report
 
-![Dashboard Preview](Images/Dashboard_(2).png)
+<div align="center">
+  <img src="Images/Dashboard%20(2).png" alt="Executive MIS Dashboard Preview" width="90%"/>
+  <br/>
+  <em>Interactive Executive Dashboard featuring Dynamic Top-N Up-Down Controls & Pivot Visualizations</em>
+</div>
 
 ## 🎯 Business Problem & Objective
 Operations managers across multi-city support centers (Mumbai & Hyderabad) needed a centralized Management Information System (MIS) to monitor agent productivity, break adherence, call-handling efficiency, and customer active time without manually cross-referencing multiple daily logs.
